@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\bin\x86\Release\BluetoothLEClient_1.0.0.0_x86.appx
+SymbolPackage=C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\AppPackages\BluetoothLEClient_1.0.0.0_Test\BluetoothLEClient_1.0.0.0_x86.appxsym

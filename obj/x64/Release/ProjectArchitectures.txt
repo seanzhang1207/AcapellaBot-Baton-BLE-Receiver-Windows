@@ -1,0 +1,1 @@
+C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\BluetoothLEClient.csproj;x64
