@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DESKTOP-QAN4Q4L</Machine>
+    <Machine>DESKTOP-299RD1F</Machine>
     <WindowsUser>Sean</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>a2214a83-6d31-41dd-b75f-0b8e56be182d</PackageIdentityName>
     <PackageIdentityPublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\obj\x64\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Sean\Desktop\AcapellaBot-Baton-BLE-Receiver-Windows\obj\x64\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,26 +18,26 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\bin\x64\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>F295CC83C3ECA67571178CB088BBF3549DF0F896957274D68230A163C6BDC91B</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>Microsoft.SDKSamples.BluetoothLEClient.CS_1.0.0.0_x64__8wekyb3d8bbwe</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>Microsoft.SDKSamples.BluetoothLEClient.CS_8wekyb3d8bbwe!BluetoothLEClient.App</RegisteredUserModeAppID>
-    <RegisteredPackageID>Microsoft.SDKSamples.BluetoothLEClient.CS</RegisteredPackageID>
+    <LayoutDir>C:\Users\Sean\Desktop\AcapellaBot-Baton-BLE-Receiver-Windows\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>0EE16A82E751DF274E4E77B3755582DAD4D98E8E4A1A4C7DA6D870DCEC8508FF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>AcapellaBot.AcapellaBot.BatonReceiver_1.0.0.0_x64__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>AcapellaBot.AcapellaBot.BatonReceiver_8wekyb3d8bbwe!BluetoothLEClient.App</RegisteredUserModeAppID>
+    <RegisteredPackageID>AcapellaBot.AcapellaBot.BatonReceiver</RegisteredPackageID>
     <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\bin\x64\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Sean\Desktop\AcapellaBot-Baton-BLE-Receiver-Windows\bin\x64\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-08-06T15:19:47.281</Modified>
+      <Modified>2017-08-06T19:42:45.024</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\bin\x64\Debug\BluetoothLEClient.exe">
+    <AppxPackagedFile Include="C:\Users\Sean\Desktop\AcapellaBot-Baton-BLE-Receiver-Windows\bin\x64\Debug\BluetoothLEClient.exe">
       <PackagePath>entrypoint\BluetoothLEClient.exe</PackagePath>
-      <Modified>2017-08-06T15:19:46.747</Modified>
+      <Modified>2017-08-06T19:42:42.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sean\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -451,58 +451,58 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2015-07-22T15:11:12.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\SharedContent\cs\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\SharedContent\cs\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2017-07-26T09:00:02.000</Modified>
+      <Modified>2017-08-06T19:40:46.126</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\SharedContent\media\microsoft-sdk.png">
+    <AppxPackagedFile Include="C:\Users\SharedContent\media\microsoft-sdk.png">
       <PackagePath>Assets\microsoft-sdk.png</PackagePath>
-      <Modified>2017-07-26T09:00:02.000</Modified>
+      <Modified>2017-08-06T19:40:47.189</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\SharedContent\media\smalltile-sdk.png">
+    <AppxPackagedFile Include="C:\Users\SharedContent\media\smalltile-sdk.png">
       <PackagePath>Assets\smallTile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-26T09:00:02.000</Modified>
+      <Modified>2017-08-06T19:40:47.192</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\SharedContent\media\splash-sdk.png">
+    <AppxPackagedFile Include="C:\Users\SharedContent\media\splash-sdk.png">
       <PackagePath>Assets\splash-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-26T09:00:02.000</Modified>
+      <Modified>2017-08-06T19:40:47.194</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\SharedContent\media\squaretile-sdk.png">
+    <AppxPackagedFile Include="C:\Users\SharedContent\media\squaretile-sdk.png">
       <PackagePath>Assets\squareTile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-26T09:00:02.000</Modified>
+      <Modified>2017-08-06T19:40:47.195</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\SharedContent\media\storelogo-sdk.png">
+    <AppxPackagedFile Include="C:\Users\SharedContent\media\storelogo-sdk.png">
       <PackagePath>Assets\storeLogo-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-07-26T09:00:02.000</Modified>
+      <Modified>2017-08-06T19:40:47.197</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\SharedContent\media\tile-sdk.png">
+    <AppxPackagedFile Include="C:\Users\SharedContent\media\tile-sdk.png">
       <PackagePath>Assets\tile-sdk.png</PackagePath>
-      <Modified>2017-07-26T09:00:02.000</Modified>
+      <Modified>2017-08-06T19:40:47.198</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\SharedContent\media\windows-sdk.png">
+    <AppxPackagedFile Include="C:\Users\SharedContent\media\windows-sdk.png">
       <PackagePath>Assets\windows-sdk.png</PackagePath>
-      <Modified>2017-07-26T09:00:02.000</Modified>
+      <Modified>2017-08-06T19:40:47.199</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\bin\x64\Debug\BluetoothLEClient.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Sean\Desktop\AcapellaBot-Baton-BLE-Receiver-Windows\bin\x64\Debug\BluetoothLEClient.xr.xml">
       <PackagePath>BluetoothLEClient.xr.xml</PackagePath>
-      <Modified>2017-08-06T14:15:48.410</Modified>
+      <Modified>2017-08-06T19:27:07.497</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
-      <Modified>2017-07-31T12:21:23.651</Modified>
+      <Modified>2017-08-02T15:51:28.413</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\bin\x64\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Sean\Desktop\AcapellaBot-Baton-BLE-Receiver-Windows\bin\x64\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-08-06T15:19:47.096</Modified>
+      <Modified>2017-08-06T19:42:44.513</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\bin\x64\Debug\Core\BluetoothLEClient.exe">
+    <AppxPackagedFile Include="C:\Users\Sean\Desktop\AcapellaBot-Baton-BLE-Receiver-Windows\bin\x64\Debug\Core\BluetoothLEClient.exe">
       <PackagePath>BluetoothLEClient.exe</PackagePath>
-      <Modified>2017-08-06T15:19:47.278</Modified>
+      <Modified>2017-08-06T19:42:45.014</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

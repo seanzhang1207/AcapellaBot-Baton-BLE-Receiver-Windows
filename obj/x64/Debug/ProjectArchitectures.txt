@@ -1,1 +1,1 @@
-C:\Users\Sean\Desktop\Windows-universal-samples-master\Samples\BluetoothLEClient\cs\BluetoothLEClient.csproj;x64
+C:\Users\Sean\Desktop\AcapellaBot-Baton-BLE-Receiver-Windows\BluetoothLEClient.csproj;x64

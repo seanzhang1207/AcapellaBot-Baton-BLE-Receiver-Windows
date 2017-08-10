@@ -15490,10 +15490,10 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sean\\Desktop\\Windows-universal-samples-master\\Samples\\BluetoothLEClient\\cs\\BluetoothLEClient.csproj",
+      "projectUniqueName": "C:\\Users\\Sean\\Desktop\\AcapellaBot-Baton-BLE-Receiver-Windows\\BluetoothLEClient.csproj",
       "projectName": "BluetoothLEClient",
-      "projectPath": "C:\\Users\\Sean\\Desktop\\Windows-universal-samples-master\\Samples\\BluetoothLEClient\\cs\\BluetoothLEClient.csproj",
-      "projectJsonPath": "C:\\Users\\Sean\\Desktop\\Windows-universal-samples-master\\Samples\\BluetoothLEClient\\cs\\project.json",
+      "projectPath": "C:\\Users\\Sean\\Desktop\\AcapellaBot-Baton-BLE-Receiver-Windows\\BluetoothLEClient.csproj",
+      "projectJsonPath": "C:\\Users\\Sean\\Desktop\\AcapellaBot-Baton-BLE-Receiver-Windows\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
